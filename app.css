@@ -1,0 +1,48 @@
+
+#sitebody{
+　width:800px;
+  padding:0 10px;　
+}
+
+#left{
+	width:120px;
+　  height:260px;
+　  margin-left: 5px;
+	margin-top: 5px;
+	float: left;
+}
+
+#middle{
+	width: 120px;
+	height: 260px;
+	margin-left: 100px;
+	margin-top: 5px;
+	float: left;	
+}
+
+#right{
+	width: 150px;
+	height: 260px;
+	margin-left: 100px;
+	margin-top: 5px;
+	float: left;
+}
+
+#footer {
+  clear:both;
+}
+
+
+p.green{
+	color: green;
+	font-weight: 900;
+	font-style: italic;
+}
+
+h3{
+	font-weight: bolder;
+}
+
+marquee{
+	width: 600px;
+}
